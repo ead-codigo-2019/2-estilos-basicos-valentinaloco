@@ -1,0 +1,78 @@
+h1 {
+  color:maroon;
+  font-family: 'Open Sans', sans-serif;
+  width: 800px; margin: 0 auto; 
+}
+h2 {
+  color:maroon;
+  font-family: 'Open Sans', sans-serif;
+  width: 800px; margin: 0 auto; 
+}
+h3 {
+  color:black;
+  font-family: 'Open Sans', sans-serif;
+  width: 800px; margin: 0 auto; 
+}
+h4 {
+  color:black;
+  font-family: 'Open Sans', sans-serif;
+  width: 800px; margin: 0 auto; 
+}
+p {
+  color:grey;
+  font-family: 'Open Sans', sans-serif;
+  width: 800px; margin: 0 auto; 
+  line-height: 1.58;
+}
+td {
+  color:grey;
+  font-family: 'Open Sans', sans-serif;
+  line-height: 1.58;
+}
+th {
+  font-family: 'Open Sans', sans-serif;
+}
+li {
+  color:grey;
+  font-family: 'Open Sans', sans-serif;
+  width: 800px; margin: 0 auto; 
+  line-height: 2.58;
+}
+blockquote {
+  font-size: 1.3em;
+  margin:10px auto;
+  font-family: 'Open Sans', sans-serif;
+  color: grey;
+  padding:0.5em 70px 1.0em 20px;
+  border-left:7px solid #800000 ;
+  background:white;
+  line-height: 1.58;
+  width: 700px; margin: 0 auto; 
+}
+th {
+  color:grey;
+}
+table {
+  width: 100%;
+  width: 800px; margin: 0 auto;
+}
+img{
+  display:block;  
+  margin:auto; 
+}
+t {
+  color:#2ECCFA;
+  font-family: 'Open Sans', sans-serif;
+}
+tt {
+  color:magenta;
+  font-family: 'Roboto Mono', sans-serif;
+}
+hr {  
+  width: 800px; margin: 0 auto; 
+}
+td {  
+  border-bottom-style:groove;
+  border-width: 0.5px
+}
+
