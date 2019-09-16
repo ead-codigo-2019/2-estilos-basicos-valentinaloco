@@ -75,4 +75,13 @@ td {
   border-bottom-style:groove;
   border-width: 0.5px
 }
-
+div.img {
+    margin: 5px;
+    float: right;
+    width: 180px;
+    text-align: center;
+      padding: 15px;
+    width: 30%;
+    height: auto;
+  font-family: 'Open Sans', sans-serif;
+}
