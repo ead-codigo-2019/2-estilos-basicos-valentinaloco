@@ -31,6 +31,8 @@ td {
 }
 th {
   font-family: 'Open Sans', sans-serif;
+  text-align:left;
+  color:grey;
 }
 li {
   color:grey;
@@ -48,9 +50,6 @@ blockquote {
   background:white;
   line-height: 1.58;
   width: 700px; margin: 0 auto; 
-}
-th {
-  color:grey;
 }
 table {
   width: 100%;
